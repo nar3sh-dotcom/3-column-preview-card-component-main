@@ -34,7 +34,7 @@ img{
 
 .content{
     background-color: var(--bright-orange);
-    padding:2.5rem 2.5rem;
+    padding:2.5rem 2.5rem 2.5rem 4rem;
     border-radius:8px 8px 0 0 ;
 }
 .description{
@@ -88,12 +88,12 @@ img{
 }
 .content-1{
     background-color: var(--dark-cyan);
-    padding:2.5rem 2.5rem;
+    padding:2.5rem 2.5rem 2.5rem 4rem;
     
 }
 .content-2{
     background-color: var(--very-dark-cyan);
-    padding:2.5rem 2.5rem;
+    padding:2.5rem 2.5rem 2.5rem 4rem;
     border-radius:0 0 8px 8px;
 }
 @media only screen and (min-width: 992px){
